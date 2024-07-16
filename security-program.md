@@ -84,5 +84,3 @@ We continuously evaluate regulatory updates to evolve our privacy program.
 ## Responsible Disclosure
 
 To report a security concern, please visit our [Responsible Disclosure page](./responsible-disclosure.md)
-
-Get compliant and build trust with Hiring Branch.
