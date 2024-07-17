@@ -1,4 +1,4 @@
-# Security and Privacy at Hiring Branch
+# Security and Privacy at HiringBranch
 
 Security is at the core of our operations. Helping our customers improve their security and compliance posture starts with our own.
 

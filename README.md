@@ -1,10 +1,10 @@
-# Hiring Branch Security Overview
+# HiringBranch Security Overview
 
-At Hiring Branch, we take security very seriously. Our dedicated security team works tirelessly to protect our platform and users. Below you will find detailed information about our security practices and our responsible disclosure program.
+At HiringBranch, we take security very seriously. Our dedicated security team works tirelessly to protect our platform and users. Below you will find detailed information about our security practices and our responsible disclosure program.
 
 ## Security Practices
 
-To understand how we safeguard your data and ensure compliance with security standards, please refer to our comprehensive [Security and Privacy at Hiring Branch](./security-program.md) document.
+To understand how we safeguard your data and ensure compliance with security standards, please refer to our comprehensive [Security and Privacy at HiringBranch](./security-program.md) document.
 
 ## Responsible Disclosure Program
 
@@ -24,6 +24,6 @@ We continuously work to improve our security posture and maintain the trust of o
 
 For any security-related inquiries, please reach out to our security team at [security@hiringbranch.com](mailto:security@hiringbranch.com).
 
-Thank you for your interest in the security of Hiring Branch.
+Thank you for your interest in the security of HiringBranch.
 
-**Hiring Branch Security Team**
+**HiringBranch Security Team**

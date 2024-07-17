@@ -1,6 +1,6 @@
 # Responsible Disclosure Program
 
-At Hiring Branch, we prioritize the security of our systems and data. If you believe you have found a security vulnerability in our platform, we encourage you to let us know right away. We welcome and appreciate your help in responsibly disclosing any potential issues.
+At HiringBranch, we prioritize the security of our systems and data. If you believe you have found a security vulnerability in our platform, we encourage you to let us know right away. We welcome and appreciate your help in responsibly disclosing any potential issues.
 
 ## Reporting a Vulnerability
 
@@ -33,6 +33,6 @@ We recognize the valuable role that security researchers play in enhancing our s
 - Public acknowledgment on our Security Hall of Fame (if desired).
 - Potential rewards for qualifying vulnerabilities.
 
-Thank you for helping us keep Hiring Branch secure.
+Thank you for helping us keep HiringBranch secure.
 
-**Hiring Branch Security Team**
+**HiringBranch Security Team**
